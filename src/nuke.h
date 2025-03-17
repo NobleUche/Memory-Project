@@ -1,7 +1,7 @@
 /* nuke.h: This is the main header */
 
 /*
- *    Copyright (C) 2020 Jithin Renji
+ *    Copyright (C) 2024 JKenji-Kryptcal
  *
  *    This file is part of Nuke.
  *

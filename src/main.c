@@ -4,7 +4,7 @@
  * zeroes and random bytes */
 
 /*
- *    Copyright (C) 2020 Jithin Renji
+ *    Copyright (C) 2024 JKenji-Kryptcal
  *
  *    This file is part of Nuke.
  *
@@ -150,11 +150,11 @@ void version(const char* progname)
 {
     printf(
 "%s v0.1\n"
-"Copyright (C) 2020 Jithin Renji.\n"
+"Copyright (C) 2024 Jithin Renji.\n"
 "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"
 "This is free software: you are free to change and redistribute it.\n"
 "There is NO WARRANTY, to the extent permitted by law.\n\n"
 
-"Written by Jithin Renji\n", progname
+"Written by JKenji-Kryptcal\n", progname
     );
 }
